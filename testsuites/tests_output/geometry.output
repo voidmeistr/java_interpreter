@@ -1,0 +1,17 @@
+Rectangle: 
+x = 8
+y = 6
+Area = 48
+Perimetry = 28
+Cirle: 
+radius = 12
+Area = 452.16
+Perimetry = 75.36
+Triangle: 
+x = 5
+y = 4
+z = 3
+Area = 6
+Perimetry = 12
+Sqrt(0.25) = 0.5
+Pow(5, -2) = 0.04
